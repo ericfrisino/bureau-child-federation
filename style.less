@@ -1,0 +1,57 @@
+/**
+ * Theme Name:   Bureau Child : Federation
+ * Theme URI:
+ * Description:  Bureau child internal documents website.
+ * Author:       Eric Frisino
+ * Author URI:   http://ericfrisino.com
+ * Template:     bureau
+ * Version:      1.0.0
+ * License:      GNU General Public License v2 or later
+ * Text Domain:  bureau-child
+ */
+
+@import '../bureau/style/base/_base.less';
+
+ .widget_categories {
+
+ 	ul:after {
+
+ 		clear:both;
+		content: '';
+ 	}
+ 	li.cat-item {
+		float: none;
+		a {
+			float: none !important;
+			display: block;
+			background-color: @grey-lighter;
+			width: 100%;
+			text-align: center;
+			margin: 0 0 5px 0;
+			padding: 5px 0;
+
+			&:hover {
+				color: @white;
+				background-color: @primary;
+			}
+		}
+ 	}
+ }
+
+ .download-description {
+	 .ff-sans-con-light;
+	 color: @grey-lightish;
+ }
+
+ table.icc-download {
+ 	tr {
+ 		&:hover {
+ 			background-color: @grey-lightest;
+ 		}
+ 	}
+ }
+
+
+ h1.icc-download {
+ 	text-align: center;
+ }

@@ -1,0 +1,172 @@
+/**
+ * Theme Name:   Bureau Child : Federation
+ * Theme URI:
+ * Description:  Bureau child internal documents website.
+ * Author:       Eric Frisino
+ * Author URI:   http://ericfrisino.com
+ * Template:     bureau
+ * Version:      1.0.0
+ * License:      GNU General Public License v2 or later
+ * Text Domain:  bureau-child
+ */
+.ff-sans-con-light {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 300;
+  font-style: normal;
+}
+.ff-sans-con-light-italic {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 300;
+  font-style: italic;
+}
+.ff-sans-con {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 400;
+  font-style: normal;
+}
+.ff-sans-con-italic {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 400;
+  font-style: italic;
+}
+.ff-sans-con-med {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 500;
+  font-style: normal;
+}
+.ff-snas-con-med-italic {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 500;
+  font-style: italic;
+}
+.ff-sans-con-bold {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 700;
+  font-style: normal;
+}
+.ff-sans-con-bold-italic {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 700;
+  font-style: italic;
+}
+.ff-sans {
+  font-family: 'Gotham SSm A', 'Gotham SSm B';
+  font-weight: 400;
+  font-style: normal;
+}
+.ff-sans-italic {
+  font-family: 'Gotham SSm A', 'Gotham SSm B';
+  font-weight: 400;
+  font-style: italic;
+}
+.ff-sans-med {
+  font-family: 'Gotham SSm A', 'Gotham SSm B';
+  font-weight: 500;
+  font-style: normal;
+}
+.ff-sand-med-italic {
+  font-family: 'Gotham SSm A', 'Gotham SSm B';
+  font-weight: 500;
+  font-style: italic;
+}
+.ff-serif {
+  font-family: 'Archer SSm A', 'Archer SSm B';
+  font-weight: 500;
+  font-style: normal;
+}
+.ff-serif-italic {
+  font-family: 'Archer SSm A', 'Archer SSm B';
+  font-weight: 500;
+  font-style: italic;
+}
+.ff-serif-med {
+  font-family: 'Archer SSm A', 'Archer SSm B';
+  font-weight: 600;
+  font-style: normal;
+}
+.ff-serif-med-italic {
+  font-family: 'Archer SSm A', 'Archer SSm B';
+  font-weight: 600;
+  font-style: italic;
+}
+.ff-serif-bold {
+  font-family: 'Archer SSm A', 'Archer SSm B';
+  font-weight: 800;
+  font-style: normal;
+}
+.ff-serif-bold-italic {
+  font-family: 'Archer SSm A', 'Archer SSm B';
+  font-weight: 800;
+  font-style: italic;
+}
+.ff-headline-med {
+  font-family: 'Tungsten A', 'Tungsten B';
+  font-weight: 500;
+  font-style: normal;
+}
+.ff-headline-semi {
+  font-family: 'Tungsten A', 'Tungsten B';
+  font-weight: 600;
+  font-style: normal;
+}
+.ff-headline-bold {
+  font-family: 'Tungsten A', 'Tungsten B';
+  font-weight: 700;
+  font-style: normal;
+}
+.ff-monospace {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.ff-heading {
+  font-family: 'Archer SSm A', 'Archer SSm B';
+  font-weight: 800;
+  font-style: normal;
+}
+.ff-base {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 300;
+  font-style: normal;
+}
+.all-caps {
+  text-transform: uppercase;
+}
+.underline {
+  border-bottom: 1px solid #2BABE2;
+}
+.highlight {
+  background-color: #5bc0de;
+  padding: 1px 2px;
+}
+.widget_categories ul:after {
+  clear: both;
+  content: '';
+}
+.widget_categories li.cat-item {
+  float: none;
+}
+.widget_categories li.cat-item a {
+  float: none !important;
+  display: block;
+  background-color: #EEE;
+  width: 100%;
+  text-align: center;
+  margin: 0 0 5px 0;
+  padding: 5px 0;
+}
+.widget_categories li.cat-item a:hover {
+  color: #FFF;
+  background-color: #2BABE2;
+}
+.download-description {
+  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+  font-weight: 300;
+  font-style: normal;
+  color: #AAA;
+}
+table.icc-download tr:hover {
+  background-color: #FAFAFA;
+}
+h1.icc-download {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
